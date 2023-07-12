@@ -1,0 +1,31 @@
+
+.banner{
+    display: flex;
+    background-color: #d9d9d8;
+    width: 1920px; height: 850px;
+}
+.banner .banner-one{
+    width: 708px; height: 506px;
+}
+
+.banner .banner-title{
+    width: 708px; height: 288px;
+}
+
+.banner .banner-contant{
+    width: 634px; height: 90px;
+}
+
+.banner .button-prymary{
+    width: 179px; height: 64px;
+    background-color: #E55473;
+    border: 0px; 
+    border-radius: 5px;
+}
+.banner .profile-pic{
+    width: 635px; height: 800px;
+}
+
+
+
+
