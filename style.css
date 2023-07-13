@@ -1,4 +1,6 @@
-
+    .body{
+        width: 1920px;
+    }
     .header{
         display: flex;
         background: rgba(229, 84, 115, 0.10);
@@ -81,4 +83,40 @@
     }
     .Hotdeal .Hotdeal-image{
         padding-left: 700px;
+    }
+    #text-pri{
+        color: #E55473; 
+    }
+    .Instagram{
+        text-align: center;
+    }
+    .Ins-images{
+        display: flex;
+        padding-left: 240px;
+    }
+    .Ins-images .Ins-images-2{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .Ins-images .Ins-images-3{
+        padding-right: 15px;
+    }
+    .button{
+        display: flex;
+        padding-left: 40%;
+    }
+    .button .button-secondary{
+        width: 400px; height: 50px;
+        border-radius: 15px;
+        border-right: 15px;
+        text-align: left;
+        margin-right: 20px;
+        border: none;
+    }
+    .last{
+        text-align: center;
+    }
+
+    .top-footer{
+        background-image: url('../Flower Asset/Rectangge 9.png');
     }
