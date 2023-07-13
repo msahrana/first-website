@@ -70,3 +70,15 @@
     .our-committee .committee{
         text-align: center;
     }
+
+    .Hotdeal{
+        display: flex;
+        border-radius: 8px;
+        background: rgba(229, 84, 115, 0.05);
+    }
+    .Hotdeal .Deal{
+        text-align: center;
+    }
+    .Hotdeal .Hotdeal-image{
+        padding-left: 700px;
+    }
