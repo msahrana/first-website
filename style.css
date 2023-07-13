@@ -1,0 +1,24 @@
+
+    .header{
+        display: flex;
+        background: rgba(229, 84, 115, 0.10);
+    }
+
+    .button-primary{
+        background-color: #E55473;
+        border-radius: 8px;
+        display: inline-flex;
+        padding: 20px 43px;
+        align-items: flex-start;
+        gap: 10px;
+        border: none;
+        color: #FFF; 
+    }
+    
+    .banner{
+        padding-left: 240px;
+    }
+
+    #banner-image{
+        width: 635px;height: 800px;
+    }
