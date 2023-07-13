@@ -22,3 +22,51 @@
     #banner-image{
         width: 635px;height: 800px;
     }
+
+    .feature-contant{
+        text-align: center;
+    }
+
+    .feature-images{
+        display: flex;
+        padding-left: 240px;
+    }
+    #pic-1{
+        width: 464px;
+        height: 538px;
+        flex-shrink: 0;
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(167, 33, 98, 0.15);
+        margin-right: 10px;
+    }
+    #pic-2{
+        width: 464px;
+        height: 538px;
+        flex-shrink: 0;
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(5, 151, 160, 0.15);
+        margin-right: 10px;
+    }
+    #pic-3{
+        width: 464px;
+        height: 538px;
+        flex-shrink: 0;
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(71, 125, 17, 0.15);
+    }
+    .Flowers{
+        display: flex;
+        padding-left: 400px;
+
+    }
+    .Flowers .Flower{
+        padding-left: 400px;
+        padding-right: 400px;
+    }
+
+    .our-committee{
+        display: flex;
+    }
+    .our-committee .committee{
+        text-align: center;
+    }
